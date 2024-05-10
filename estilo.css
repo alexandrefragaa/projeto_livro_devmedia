@@ -38,7 +38,7 @@ p {
   line-height: 32px;
   color: #000000;
   margin-bottom: 35px;
-  border: 15px auto 30px auto;
+  margin: 15px auto 30px auto;
 }
 
 h3 {
